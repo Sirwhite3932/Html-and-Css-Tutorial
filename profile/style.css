@@ -35,7 +35,7 @@ nav li a:hover{
     color:#888;
 }
 .home{
-    background-image: url("/images/bg-1.jpg");
+    background-image: url("images/bg-1.jpg");
     color: #fff;
     padding:30px;
     background-position: center;
@@ -61,7 +61,7 @@ margin-bottom: 15px;
 }
 
 .skills{
-    background-image: url("/images/code1.jpg");
+    background-image: url("images/code1.jpg");
     color: #fff;
     padding:30px;
     background-position: center;
@@ -86,7 +86,7 @@ margin-bottom: 15px;
    max-width: 700px;
  }
  .aboutme{
-  background-image: url("/images/about.jpg");
+  background-image: url("images/about.jpg");
   padding: 30px;
   background-position: center;
   background-size: cover;   
@@ -110,7 +110,7 @@ margin-bottom: 15px;
      margin: 10px;
  }
  .contact{
-    background-image: url("/images/contact.jpg");
+    background-image: url("images/contact.jpg");
     padding: 30px;
     background-position: center;
     background-size: cover;   
